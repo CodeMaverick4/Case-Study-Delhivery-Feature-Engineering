@@ -13,14 +13,6 @@ The primary objective of this analysis is to understand and process data from De
 - Clean, sanitize, and manipulate data to extract useful features from raw fields.
 - Make sense of the raw data to aid the data science team in building forecasting models.
 
-## Dataset 📁
-
-- **Dataset Link:** [delhivery_data.csv](link_to_dataset)
-- **Steps to Download:**
-  1. Open the dataset link, which will launch a new browser window displaying the raw data.
-  2. Right-click on any empty space without selecting any text, then choose "Save As."
-  3. Select the destination folder, provide a suitable name for the dataset (include ".csv" extension), and click "Save."
-
 ## Column Profiling 🔍
 
 The dataset comprises several columns with specific information related to Delhivery's operations. Key columns include:
