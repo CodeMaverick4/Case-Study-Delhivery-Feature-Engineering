@@ -1,4 +1,4 @@
-# Delhivery Data Analysis Case Study 🚚📊
+# From Raw Data to Predictive Models: A Delhivery Case Study 🚚📊
 
 This repository contains a comprehensive analysis of Delhivery's dataset to derive valuable insights and build forecasting models. Delhivery, the largest and fastest-growing fully integrated player in India by revenue in Fiscal 2021, aims to revolutionize commerce through top-notch infrastructure, logistics operations, and cutting-edge engineering and technology capabilities.
 
