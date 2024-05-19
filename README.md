@@ -68,6 +68,7 @@ The analysis involves various data processing and analysis techniques, including
    - Normalize/Standardize numerical features
 
 #**Business Insights & Recommendations**
+
 ##**Insights**
 - Catering orders comprise approximately 51% of total orders, while FTL orders make up the remaining 49%. This indicates a
 slightly higher demand for smaller shipments handled by catering services.
